@@ -1,6 +1,6 @@
 ### Hi there, I'm NotedSalmon! 🌟
 
-Welcome to my GitHub profile! I'm a Software Engineer curretnly trying out different technologies.
+Welcome to my GitHub profile! I'm a Software Engineer currently trying out different technologies.
 
 ---
 
