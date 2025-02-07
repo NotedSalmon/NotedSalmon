@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working with 
 
 ### 💻 Tech Stack & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JSF](https://img.shields.io/badge/JSF-323330?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,11 +30,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working with 
 
 ---
 
-### 📢 Connect with Me
-- **GitHub:** [@notedsalmon](https://github.com/notedsalmon)
-- **LinkedIn:** [Your LinkedIn Here]
-- **Portfolio:** [Your Portfolio Link Here]
-
----
 
 Thanks for stopping by! Happy coding! 🚀
