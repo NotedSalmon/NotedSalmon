@@ -1,6 +1,6 @@
 ### Hi there, I'm NotedSalmon! 🌟
 
-Welcome to my GitHub profile! I'm a Software Engineer currently trying out different technologies.
+Welcome to my GitHub profile! I'm a Software Engineer for Payara currently trying out different technologies.
 
 ---
 
@@ -26,6 +26,3 @@ Welcome to my GitHub profile! I'm a Software Engineer currently trying out diffe
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=notedsalmon&theme=react-dark)
 
 ---
-
-
-Thanks for stopping by! Happy coding! 🚀
